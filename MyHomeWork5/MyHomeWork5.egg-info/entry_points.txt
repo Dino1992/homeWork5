@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = myhomework5:main
+      [console_scripts]
+      initialize_MyHomeWork5_db = myhomework5.scripts.initializedb:main
+      
